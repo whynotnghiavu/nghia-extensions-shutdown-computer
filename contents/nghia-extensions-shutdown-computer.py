@@ -1,9 +1,5 @@
-import os 
+import os
 import time
-
-
-
-
 
 
 def shutdown_computer():
@@ -15,5 +11,5 @@ def shutdown_computer():
     else:
         print("Không thể tắt máy tự động trên hệ điều hành này.")
 
- 
+
 shutdown_computer()
